@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
 
 <a href="https://www.linkedin.com/in/eljumaa/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="jumaa's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/hx5.t/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="jumaa's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.x.com/slgu_/">
+  <img align="left" alt="jumaa's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <!--
 <a href="https://www.facebook.com/ZamranxD">
